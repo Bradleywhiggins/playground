@@ -1,0 +1,64 @@
+video{
+  width: 100vw;
+}
+body{
+    background-color: #00ccff;
+    color: #002255;
+    }
+  h1{
+    font-size: 4rem;
+    text-align: center;
+    background-color: #fff;
+    color: #002255;
+    width: 500px;
+    align-items: center;
+    text-decoration: underline;
+    word-spacing: 10px;
+    text-shadow: 3px 2px light Purple;
+}
+img{
+  height: 50px;
+  width: 50px;
+}
+iframe{
+  width: 100vw;
+  height: 80vh;
+}
+.aboutUs{
+  background-color: #fff;
+}
+.navBar{
+  background-color: #fff;
+  height: 50px;
+}
+.content-hero.content1 .video-background {
+position: absolute;
+top: 0px;
+right: 0px;
+min-width: 100%;
+min-height: 50%;
+width: auto;
+height: auto;
+overflow: hidden;
+}
+.content-hero.content1 .video-pattern {
+background-image: linear-gradient(rgba(0,0,0, 0.5),rgba(0,0,0, 0.5));
+position: absolute;
+left: 0px;
+top: 0px;
+width: 100vw;
+height: 885px;
+}
+.content-hero.content1 {
+height: 100vh;
+overflow: hidden;
+background-image: url('//pictures.dealer.com/f/forddemo/0450/2eb3a2c4ea93ae14d88b657114ec2b95x.jpg');
+background-image: linear-gradient(rgba(0,0,0, 0.5),rgba(0,0,0, 0.5)),url('//pictures.dealer.com/f/forddemo/0450/2eb3a2c4ea93ae14d88b657114ec2b95x.jpg');
+-webkit-transform: translate3d(0, 0, 0);
+background-size:
+}
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+    padding: 10px;
